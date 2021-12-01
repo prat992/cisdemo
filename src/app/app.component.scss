@@ -1,0 +1,17 @@
+// App Styles
+// ----------------------------------------------------------------------------
+// Put style rules here that you want to apply to the entire application. These 
+// styles are for the entire app and not just one component. Additionally, this 
+// file can hold Sass mixins, functions, and placeholder classes to be imported 
+// and used throughout the application.
+.app-logo{
+    background-image: url(https://www.freakyjolly.com/wp-content/uploads/2020/04/fj-logo-1.png);
+    height: 150px;
+    width: 150px;
+    background-repeat: no-repeat;
+    border-radius: 320px;
+    background-position: center;
+    background-size: contain;
+    background-color: #e3f8ff;
+    margin: 30px auto;
+}
